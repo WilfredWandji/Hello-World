@@ -1,0 +1,20 @@
+2022-09-18 21:34:19.039 xcodebuild[57398:2126905] Requested but did not find extension point 
+with identifier Xcode.IDEKit.ExtensionSentinelHostApplications for extension 
+Xcode.DebuggerFoundation.AppExtensionHosts.watchOS of plug-in 
+com.apple.dt.IDEWatchSupportCore
+2022-09-18 21:34:19.040 xcodebuild[57398:2126905] Requested but did not find extension point 
+with identifier Xcode.IDEKit.ExtensionPointIdentifierToBundleIdentifier for extension 
+Xcode.DebuggerFoundation.AppExtensionToBundleIdentifierMap.watchOS of plug-in 
+com.apple.dt.IDEWatchSupportCore
+commit 0891c6a03c0be70727ab531e312a9dec0f815693 (HEAD -> main, origin/main, origin/HEAD)
+Author: WilfredWandji <111838882+WilfredWandji@users.noreply.github.com>
+Date:   Sun Sep 11 22:36:39 2022 -0700
+
+    added image in image folder
+
+commit c01ae86eee8c5a8fcb45cceb9a2913685bef65d5
+Author: WilfredWandji <111838882+WilfredWandji@users.noreply.github.com>
+Date:   Sun Sep 11 21:58:09 2022 -0700
+
+    Initial commit
+(base) Wilfreds-MacBook-Air:Hello-world wilfredwandji$ 
